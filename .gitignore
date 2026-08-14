@@ -1,0 +1,12 @@
+# Pastas de importação e cache da Godot
+.godot/
+
+# Arquivos gerados pelo C# / .NET
+.vs/
+bin/
+obj/
+*.csproj.user
+
+# Logs e arquivos do SO
+*.log
+.DS_Store
